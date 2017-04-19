@@ -1,5 +1,3 @@
-# [tomatych.py](https://github.com/dmi3/bin/blob/master/tomatych.py)
-
 Simple Hackable Pomodoro Timer
 ===============================
 <img src="http://developer.run/pic/tomatych.png"/>
